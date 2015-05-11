@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="the-grid-solution" content=" " /><style type="text/css">
+  .box-sizing {
+  -o-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  background: #eeeeee;
+  color: #bbbbbb;
+  overflow-x: hidden;
+}
+body:after {
+  content: "";
+  position: fixed;
+  left: 50%;
+  top: 0;
+  height: 100%;
+  border-right: 1px solid #dddddd;
+  opacity: .2;
+  z-index: -1;
+}
+@media screen and (max-width: 720px) {
+  body:after {
+    display: none;
+  }
+}
+body a,
+body .cta {
+  color: #cccccc;
+  text-decoration: none;
+  display: inline-block;
+}
+body a:hover *,
+body .cta:hover * {
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-delay: 0s;
+  -moz-transition-delay: 0s;
+  -o-transition-delay: 0s;
+  -ms-transition-delay: 0s;
+  transition-delay: 0s;
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  -ms-transition-timing-function: linear;
+  transition-transition-timing-function: linear;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+  opacity: .8;
+}
+*,
+*:before,
+*:after {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-weight: normal;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+article.post .title {
+  color: #aaaaaa;
+}
+article.post .description {
+  color: #bbbbbb;
+}
+article.post .overlay {
+  opacity: 0.06;
+}
+article.post .attribution .source {
+  color: #dddddd;
+}
+article.post .attribution .name {
+  color: #bbbbbb;
+}
+article.post .attribution .avatar {
+  background-size: cover;
+}
+svg text,
+svg path {
+  fill: #aaaaaa;
+}
+
+</style><style id="gss-precomputed">
+@media (max-width: 720px) {
+#u18{font-size: 0.16rem;}
+#u18:before{content: ""; display: none;}
+#u17{font-size: 0.16rem;}
+#u6295c7c7-37eb-41f9-8b4c-c8969217f759{font-size: 0.16rem;}
+#u3{font-size: 0.16rem;}
+#u1{font-size: 0.1872rem;}
+
+#u2{font-size: 0.24rem;}
+
+#u5{font-size: 0.16rem;}
+
+#u13{overflow: hidden;;font-size: 0.16rem;}
+#u8{height: 7.35rem; width: 9.8rem; position: absolute; top: -0.19rem; left: 0rem;;font-size: 0.16rem;}
+
+#u15{font-size: 0.16rem;}
+#u15>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u19{font-size: 0.16rem;}
+
+}
+@media (min-width: 721px) {
+#u18{font-size: 0.16rem;}
+#u18:before{content: ""; display: none;}
+#u17{font-size: 0.16rem;}
+#u6295c7c7-37eb-41f9-8b4c-c8969217f759{font-size: 0.16rem;}
+#u3{font-size: 0.16rem;}
+#u1{font-size: 0.1872rem;}
+
+#u2{font-size: 0.24rem;}
+
+#u5{font-size: 0.16rem;}
+
+#u13{overflow: hidden;;font-size: 0.16rem;}
+#u8{height: 7.35rem; width: 9.8rem; position: absolute; top: -0.19rem; left: 0rem;;font-size: 0.16rem;}
+
+#u15{font-size: 0.16rem;}
+#u15>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u19{font-size: 0.16rem;}
+
+}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Montserrat:400,700","Roboto:300,300italic,400,400italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 300;}
+ .layout-system .hero {font-family: 'Montserrat';font-weight: 700;}
+ .layout-system .title {font-family: 'Montserrat';}
+ .layout-system .subtitle {font-family: 'Montserrat';}
+ .layout-system .description {font-family: 'Roboto';}
+ .layout-system .title {font-weight: 400;}
+ .layout-system .subtitle {font-weight: 700;}
+ a {font-family: 'Roboto';font-weight: 300;}
+ .attribution {font-family: 'Roboto';font-weight: 400;}
+ .layout-system .quote {font-family: 'Montserrat';font-weight: 400;font-style: italic;}
+ .layout-system .subtitle {text-transform: uppercase;letter-spacing: .07em;}</style></head>
+
+  <body id="u21">
+    <!-- <div id="grid">
+  <div class="col1"></div>
+  <div class="col2"></div>
+  <div class="col3"></div>
+  <div class="col4"></div>
+  <div class="col5"></div>
+  <div class="col6"></div>
+  <div class="col7"></div>
+  <div class="col8"></div>
+  <div class="col9"></div>
+  <div class="col10"></div>
+  <div class="col11"></div>
+  <div class="col12"></div>
+  <div class="col13"></div>
+  <div class="col15"></div>
+  <div class="col16"></div>
+  <div class="col17"></div>
+  <div class="col18"></div>
+  <div class="col19"></div>
+  <div class="col20"></div>
+  <div class="row1"></div>
+  <div class="row2"></div>
+  <div class="row3"></div>
+  <div class="row4"></div>
+  <div class="row5"></div>
+  <div class="row6"></div>
+  <div class="row7"></div>
+  <div class="row8"></div>
+  <div class="row9"></div>
+  <div class="row10"></div>
+  <div class="row11"></div>
+  <div class="row12"></div>
+  <div class="row13"></div>
+  <div class="row15"></div>
+  <div class="row16"></div>
+  <div class="row17"></div>
+  <div class="row18"></div>
+  <div class="row19"></div>
+  <div class="row20"></div>
+  <div class="row21"></div>
+  <div class="row22"></div>
+  <div class="row23"></div>
+  <div class="row24"></div>
+  <div class="row25"></div>
+  <div class="row26"></div>
+  <div class="row27"></div>
+  <div class="row28"></div>
+  <div class="row29"></div>
+  <div class="row30"></div>
+</div> -->
+    <div class="layout-system computed fallback sections" id="u18">
+      <section class="section-fallback left section" id="u17">
+        <article class="post" id="u6295c7c7-37eb-41f9-8b4c-c8969217f759">
+          <div class="titles" id="u3">
+            <h1 class="title text" id="u1"></h1>
+            <h2 class="subtitle text" id="u2"></h2>
+          </div>
+          <p class="description text" id="u5">Hi</p>
+          <div class="cover image" id="u13"><style type="text/gss" scoped="scoped" id="u7">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 3264 !require;
+img[height] == img[width] * (2448/3264) !require;
+
+/* enforce minimum scale*/
+img[height] >= 2448 * image-min-scale !require;
+img[height] <= 2448 * image-max-scale !require;</style>
+            <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f55fe43fdbcb2c0941560d2258ef18c/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc66c4825-64f6-4e95-8bb4-093385dd4887.jpg&width=3264&height=2448" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2a2d7b649f25efc99ae6093839518e9/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc66c4825-64f6-4e95-8bb4-093385dd4887.jpg&width=720&height=540 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5468c4f369475cdd62cf463cce9c987d/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc66c4825-64f6-4e95-8bb4-093385dd4887.jpg&width=1440&height=1080 1440w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u8" /><style type="text/gss" scoped="scoped" id="u10">/* define  blank spot */
+"space"[x] == img[x] + 0 * image-scale !require;
+"space"[y] == img[y] + 0 * image-scale !require;
+"space"[width] ==  560 * image-scale !require;
+"space"[height] == 560 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u12">/* define  area of importance */
+"scene"[x] == img[x] + 527 * image-scale !require;
+"scene"[y] == img[y] + 123 * image-scale !require;
+"scene"[width] ==  496 * image-scale !require;
+"scene"[height] == 644 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u15">
+            <img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/c66c4825-64f6-4e95-8bb4-093385dd4887.jpg">
+          </div>
+        </article>
+      </section>
+    </div>
+    <div id="u19"></div><script src="//cdn.thegrid.io/design-systems/taylor/0.0.54/src/assets/gss-init.js" id="u20"></script></body>
+
+</html>
