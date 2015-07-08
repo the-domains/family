@@ -6,7 +6,7 @@ publisher:
   domain: 21e0a42c-8d81-430b-a7b7-b652f40ef2e2
   name: 21e0a42c-8d81-430b-a7b7-b652f40ef2e2
 datePublished: '2015-06-14T10:02:46.767Z'
-dateModified: '2015-07-08T00:01:55.641Z'
+dateModified: '2015-07-08T00:01:56.929Z'
 sourcePath: _posts/2015-06-14-teeeeeetle.md
 published: true
 url: teeeeeetle/index.html
