@@ -1,7 +1,7 @@
 name: null
 favicon: null
 layout_spectrum: 0.83333
-typography_spectrum: 0.04386
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -24,4 +24,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
