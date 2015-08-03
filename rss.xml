@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 00:50:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 03 Aug 2015 05:32:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yeah guys]]></title>
+            <description><![CDATA[<article><h1>yeah guys</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec648e5d-ca40-4756-bb3f-ccdb195d8b57.jpg"></article>]]></description>
+            <link>https://thegrid.ai/family/yeah-guys/index.html</link>
+            <guid isPermaLink="false">f6f64d07-1c46-429e-8aa4-5c217f93d4e3</guid>
+            <pubDate>Mon, 27 Jul 2015 01:26:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Avail]]></title>
             <description><![CDATA[<article><h1>Avail</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca5ccc1-6e3c-4ba4-a9e2-adb9565dabc4.jpg"></article>]]></description>
-            <link>undefinedavail/index.html</link>
+            <link>https://thegrid.ai/family/avail/index.html</link>
             <guid isPermaLink="false">01d9efed-7678-41ef-8c85-2bb8b46d669e</guid>
             <pubDate>Wed, 29 Jul 2015 00:50:26 GMT</pubDate>
         </item>
