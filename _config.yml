@@ -30,9 +30,9 @@ collections:
       navigable: true
 purpose: []
 color:
-  saturation: 0.1594982
+  saturation: 0.6326165
   brandStrength: 0.5985663
-  lightness: 0.1541219
+  lightness: 0.7329749
   brandColors:
     - '#5C6528'
     - '#BDA31F'
@@ -40,8 +40,8 @@ color:
     - '#9298A4'
     - '#F2F3C6'
   rhythmicContrast: 0.1702509
-typography_spectrum: 0.1326165
-layout_spectrum: 0.6290323
+typography_spectrum: 0.06630825
+layout_spectrum: 0.937276
 analytics:
   twitter: null
   google: null
