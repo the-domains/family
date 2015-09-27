@@ -5,13 +5,20 @@
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Sep 2015 12:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2015 12:51:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d8f0ce-5fa0-4c70-a738-49db20ee8ca1.png">]]></description>
             <link>https://thegrid.ai/family/4571b12d-f773-42a2-8b33-6a8244afaa01/index.html</link>
             <guid isPermaLink="false">4571b12d-f773-42a2-8b33-6a8244afaa01</guid>
+            <pubDate>Sun, 27 Sep 2015 12:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69bb9a11-114e-45e1-8f93-9a5c6884789f.png">]]></description>
+            <link>https://thegrid.ai/family/7a8835ad-4cfe-4cde-8d10-2f5a5b2e4709/index.html</link>
+            <guid isPermaLink="false">7a8835ad-4cfe-4cde-8d10-2f5a5b2e4709</guid>
             <pubDate>Sun, 27 Sep 2015 12:49:35 GMT</pubDate>
         </item>
         <item>
@@ -70,13 +77,6 @@ iA Writer Pro introduces professional authoring tools to help you craft your tex
             <link>https://thegrid.ai/family/yeah-guys/index.html</link>
             <guid isPermaLink="false">f6f64d07-1c46-429e-8aa4-5c217f93d4e3</guid>
             <pubDate>Mon, 27 Jul 2015 01:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avail]]></title>
-            <description><![CDATA[<article><h1>Avail</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca5ccc1-6e3c-4ba4-a9e2-adb9565dabc4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/family/avail/index.html</link>
-            <guid isPermaLink="false">01d9efed-7678-41ef-8c85-2bb8b46d669e</guid>
-            <pubDate>Wed, 29 Jul 2015 00:50:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
