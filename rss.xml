@@ -5,8 +5,15 @@
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Oct 2015 03:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2015 07:54:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64507e17-74b2-41d1-95d3-5b7ff2c72fd6.png">]]></description>
+            <link>https://thegrid.ai/family/d119fe0f-4862-4cdc-94d4-bd2903ba5d4e/index.html</link>
+            <guid isPermaLink="false">d119fe0f-4862-4cdc-94d4-bd2903ba5d4e</guid>
+            <pubDate>Mon, 05 Oct 2015 07:54:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 3 of us]]></title>
             <description><![CDATA[<article><h1>The 3 of us</h1><p>Make it so.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c722c4bf-a3b2-43e9-80a7-84dea3406f42.jpg"></article>]]></description>
@@ -69,14 +76,6 @@
             <link>https://thegrid.ai/family/a4342569-c0c5-43c7-a318-e0f57c429563/index.html</link>
             <guid isPermaLink="false">a4342569-c0c5-43c7-a318-e0f57c429563</guid>
             <pubDate>Mon, 10 Aug 2015 06:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iA Writer Pro For iPad And iPhone: Quick Start]]></title>
-            <description><![CDATA[<article><h1>iA Writer Pro For iPad And iPhone: Quick Start</h1><p>iA Writer Pro For iPad And iPhone: Quick Start
-iA Writer Pro introduces professional authoring tools to help you craft your text. Syntax Control to give you dee</p></article>]]></description>
-            <link>https://thegrid.ai/family/ia-writer-pro-for-ipad-and-iphone-quick-start-ia-writer-pro/index.html</link>
-            <guid isPermaLink="false">b97e6bd0-e4a9-44e7-a7eb-9cc86e825283</guid>
-            <pubDate>Wed, 05 Aug 2015 22:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
