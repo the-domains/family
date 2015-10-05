@@ -5,8 +5,15 @@
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Oct 2015 03:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2015 03:21:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 3 of us]]></title>
+            <description><![CDATA[<article><h1>The 3 of us</h1><p>Make it so.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c722c4bf-a3b2-43e9-80a7-84dea3406f42.jpg"></article>]]></description>
+            <link>https://thegrid.ai/family/just-all-hanging-out-on-photo-day/index.html</link>
+            <guid isPermaLink="false">b2c3f6a0-2b40-4b4e-aa72-3b2a99cefdda</guid>
+            <pubDate>Mon, 05 Oct 2015 03:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d8f0ce-5fa0-4c70-a738-49db20ee8ca1.png">]]></description>
@@ -70,13 +77,6 @@ iA Writer Pro introduces professional authoring tools to help you craft your tex
             <link>https://thegrid.ai/family/ia-writer-pro-for-ipad-and-iphone-quick-start-ia-writer-pro/index.html</link>
             <guid isPermaLink="false">b97e6bd0-e4a9-44e7-a7eb-9cc86e825283</guid>
             <pubDate>Wed, 05 Aug 2015 22:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b8aaa09-822c-4dc1-b95d-53aff1900582.png">]]></description>
-            <link>https://thegrid.ai/family/5d646481-ace1-47b0-a5ed-9b57c6aef27e/index.html</link>
-            <guid isPermaLink="false">5d646481-ace1-47b0-a5ed-9b57c6aef27e</guid>
-            <pubDate>Wed, 05 Aug 2015 06:26:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
