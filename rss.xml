@@ -5,7 +5,7 @@
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Sep 2015 12:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2015 03:20:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/family/4571b12d-f773-42a2-8b33-6a8244afaa01/index.html</link>
             <guid isPermaLink="false">4571b12d-f773-42a2-8b33-6a8244afaa01</guid>
             <pubDate>Sun, 27 Sep 2015 12:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee6cd869-5ee4-4e67-b314-12999ba94720.jpg"></article>]]></description>
+            <link>https://thegrid.ai/family/title/index.html</link>
+            <guid isPermaLink="false">406de0ef-a21e-4b7c-a6fc-cedce2b21c84</guid>
+            <pubDate>Mon, 05 Oct 2015 03:20:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,13 +77,6 @@ iA Writer Pro introduces professional authoring tools to help you craft your tex
             <link>https://thegrid.ai/family/5d646481-ace1-47b0-a5ed-9b57c6aef27e/index.html</link>
             <guid isPermaLink="false">5d646481-ace1-47b0-a5ed-9b57c6aef27e</guid>
             <pubDate>Wed, 05 Aug 2015 06:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yeah guys]]></title>
-            <description><![CDATA[<article><h1>yeah guys</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec648e5d-ca40-4756-bb3f-ccdb195d8b57.jpg"></article>]]></description>
-            <link>https://thegrid.ai/family/yeah-guys/index.html</link>
-            <guid isPermaLink="false">f6f64d07-1c46-429e-8aa4-5c217f93d4e3</guid>
-            <pubDate>Mon, 27 Jul 2015 01:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
