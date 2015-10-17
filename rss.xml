@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Family]]></title>
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 01:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:02:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,11 +14,11 @@
             <pubDate>Sat, 10 Oct 2015 03:53:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Just all hanging out on photo day]]></title>
-            <description><![CDATA[<article><h1>Just all hanging out on photo day</h1><p>Make it so.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c722c4bf-a3b2-43e9-80a7-84dea3406f42.jpg"></article>]]></description>
-            <link>https://thegrid.ai/family/just-all-hanging-out-on-photo-day/index.html</link>
-            <guid isPermaLink="false">b2c3f6a0-2b40-4b4e-aa72-3b2a99cefdda</guid>
-            <pubDate>Mon, 05 Oct 2015 03:20:27 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33d1fa5-7539-4730-9e7f-7b2699bf8435.png">]]></description>
+            <link>https://thegrid.ai/family/73e15fe4-15ef-4cd1-a689-e96fb0d6a05e/index.html</link>
+            <guid isPermaLink="false">73e15fe4-15ef-4cd1-a689-e96fb0d6a05e</guid>
+            <pubDate>Mon, 12 Oct 2015 01:48:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cool falls.]]></title>
@@ -50,13 +49,6 @@
             <pubDate>Mon, 12 Oct 2015 01:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Title]]></title>
-            <description><![CDATA[<article><h1>Title</h1><p>Hello!</p></article>]]></description>
-            <link>https://thegrid.ai/family/title/index.html</link>
-            <guid isPermaLink="false">79e33942-5f50-4050-a47c-2b46cb2aabdb</guid>
-            <pubDate>Mon, 12 Oct 2015 01:36:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8469fb93-5423-4dbd-981f-1274fd9c6de5.png">]]></description>
             <link>https://thegrid.ai/family/4cde0d68-0218-4b36-8668-e6264bf2395b/index.html</link>
@@ -68,14 +60,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c1b22d-e966-4e0d-9824-856a64d87544.jpg">]]></description>
             <link>https://thegrid.ai/family/a14b6baf-5bf1-416e-ad4e-d12338a42790/index.html</link>
             <guid isPermaLink="false">a14b6baf-5bf1-416e-ad4e-d12338a42790</guid>
-            <pubDate>Sat, 10 Oct 2015 03:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Device 3 3]]></title>
-            <description><![CDATA[<article><h1>Device 3 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74024b9-58fa-4cfb-b106-729274c167fa.png"></article>]]></description>
-            <link>https://thegrid.ai/family/device-3-3/index.html</link>
-            <guid isPermaLink="false">f5af826b-2d0d-4283-ab51-fad45195df66</guid>
-            <pubDate>Sat, 10 Oct 2015 03:55:08 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2015 01:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
