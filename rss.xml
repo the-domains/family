@@ -4,7 +4,7 @@
         <description><![CDATA[Family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 12:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 02:54:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,21 +43,14 @@
         </item>
         <item>
             <title><![CDATA[Cool falls.]]></title>
-            <description><![CDATA[<article><h1>Cool falls.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/735ad3f3-d9a7-4b51-b34c-1937307fad68.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Cool falls.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c269d69638122fefe4baee1e2ec5b6ebde6df7d.png"></article>]]></description>
             <link>https://thegrid.ai/family/cool-falls/index.html</link>
             <guid isPermaLink="false">adf475e0-99ac-4a4b-8606-f10ff0744510</guid>
             <pubDate>Mon, 12 Oct 2015 01:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6692ad-6980-4e0e-b450-01e456bf23a8.png">]]></description>
-            <link>https://thegrid.ai/family/388363b9-8a65-4976-a468-9dcac6ba652f/index.html</link>
-            <guid isPermaLink="false">388363b9-8a65-4976-a468-9dcac6ba652f</guid>
-            <pubDate>Mon, 12 Oct 2015 01:36:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apple]]></title>
-            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="http://images.apple.com/home/images/og.jpg?201509172153"></article>]]></description>
+            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/136b6b2d71a50004a87bb23f0fcb9d4fc89153d5.jpg"></article>]]></description>
             <link>https://www.apple.com/</link>
             <guid isPermaLink="false">1978ee05-9aaf-40e5-b16d-bb881ddcc4e4</guid>
             <pubDate>Mon, 12 Oct 2015 01:36:09 GMT</pubDate>
