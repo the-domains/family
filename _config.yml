@@ -30,16 +30,16 @@ collections:
       navigable: true
 purpose: []
 color:
-  saturation: 0.6326165
-  brandStrength: 0.5985663
-  rhythmicContrast: 0.1702509
+  saturation: 0.13337809941731393
+  brandStrength: 0.5357793758157641
+  rhythmicContrast: 0.055144296027719975
   brandColors:
-    - '#F1F4FD'
-    - '#999189'
-    - '#31390E'
-    - '#E8E188'
-    - '#CDBF39'
-  lightness: 0.7329749
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.9685638383962214
 typography_spectrum: 0.6630824
 cta:
   bucket: null
