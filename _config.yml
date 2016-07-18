@@ -30,6 +30,10 @@ navigation:
     url: 2016-05-27-the-notification.html
     name: The notification
     type: content
+  - id: 'http://www.apple.com'
+    url: 'http://www.apple.com'
+    name: Apple
+    type: external
 favicon: null
 collections:
   - filter:
