@@ -1,14 +1,15 @@
 ---
 inFeed: true
 author: []
-dateModified: '2016-05-26T16:57:53.311Z'
+dateModified: '2016-07-18T05:18:16.407Z'
 title: 'The notification '
 description: Hello there.
-datePublished: '2016-05-27T22:04:26.499Z'
-isBasedOnUrl: 'http://www.hello.com'
-starred: false
+datePublished: '2016-07-18T05:18:16.739Z'
 sourcePath: _posts/2016-05-27-the-notification.md
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-notification/index.html
+_type: Article
 
 ---
 # The notification 
