@@ -1,9 +1,36 @@
-favicon: null
-name: Family
+typography_spectrum: 0.6630824
+color:
+  saturation: 0.5092597377952188
+  brandStrength: 0.17607305012643337
+  rhythmicContrast: 0.8781385608017445
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  lightness: 0.5738023978192359
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.421147
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Family
+cta:
+  bucket: null
+  version: null
+  domain: null
+style: the-composer
+navigation:
+  - id: f07ffaea-63c4-4c8f-9010-8ea2a54c84f0
+    url: 2016-05-27-the-notification.html
+    name: The notification
+    type: content
+favicon: null
 collections:
   - filter:
       notType:
@@ -29,25 +56,3 @@ collections:
       path: '/:title/'
       navigable: true
 purpose: []
-color:
-  saturation: 0.5092597377952188
-  brandStrength: 0.17607305012643337
-  rhythmicContrast: 0.8781385608017445
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  lightness: 0.5738023978192359
-typography_spectrum: 0.6630824
-style: the-composer
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.421147
-analytics:
-  twitter: null
-  google: null
-  facebook: null
