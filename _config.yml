@@ -26,14 +26,14 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - id: f07ffaea-63c4-4c8f-9010-8ea2a54c84f0
-    url: 2016-05-27-the-notification.html
-    name: The notification
-    type: content
   - id: 'http://www.apple.com'
     url: 'http://www.apple.com'
     name: Apple
     type: external
+  - id: f07ffaea-63c4-4c8f-9010-8ea2a54c84f0
+    url: 2016-05-27-the-notification.html
+    name: The notification
+    type: content
 favicon: null
 collections:
   - filter:
