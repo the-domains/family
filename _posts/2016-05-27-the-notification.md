@@ -1,12 +1,14 @@
 ---
 inFeed: true
 author: []
-dateModified: '2016-07-18T05:18:16.407Z'
+dateModified: '2016-07-26T21:32:52.515Z'
 title: 'The notification '
 description: Hello there.
-datePublished: '2016-07-18T05:18:16.739Z'
+datePublished: '2016-07-26T21:32:53.517Z'
 sourcePath: _posts/2016-05-27-the-notification.md
 hasPage: true
+publisher: {}
+via: {}
 starred: false
 url: the-notification/index.html
 _type: Article
