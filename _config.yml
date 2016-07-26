@@ -25,10 +25,7 @@ cta:
   version: null
   domain: null
 style: the-composer
-navigation:
-  - id: f07ffaea-63c4-4c8f-9010-8ea2a54c84f0
-    name: The notification
-    type: content
+navigation: []
 favicon: null
 collections:
   - filter:
