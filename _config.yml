@@ -29,6 +29,9 @@ navigation:
   - url: 'http://www.google.com'
     name: The Googles
     type: external
+  - id: f07ffaea-63c4-4c8f-9010-8ea2a54c84f0
+    name: 'The notification '
+    type: content
 favicon: null
 collections:
   - filter:
