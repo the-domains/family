@@ -25,10 +25,7 @@ cta:
   version: null
   domain: null
 style: the-composer
-navigation:
-  - url: 'http://www.google.com'
-    name: The Googles
-    type: external
+navigation: []
 favicon: null
 collections:
   - filter:
