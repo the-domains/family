@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Family]]></title>
-        <description><![CDATA[Family]]></description>
+        <title><![CDATA[family]]></title>
+        <description><![CDATA[family]]></description>
         <link>https://thegrid.ai/family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 21:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 17:19:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/family/4571b12d-f773-42a2-8b33-6a8244afaa01/index.html</link>
             <guid isPermaLink="false">4571b12d-f773-42a2-8b33-6a8244afaa01</guid>
             <pubDate>Sat, 10 Oct 2015 03:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ozeki Sake - What's Sake Meter Value (SMV) and Sake Acidity?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf06b7d-1012-49ec-b2a8-9fa2a16652f0.png">]]></description>
+            <link>http://www.ozekisake.com/learn/sake-meter-value.php</link>
+            <guid isPermaLink="false">0e64e23c-ad06-4390-8cac-0394b2366a66</guid>
+            <pubDate>Thu, 01 Sep 2016 17:19:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
