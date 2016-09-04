@@ -1,11 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ozekisake.com'
-  name: Ozekisake
-  favicon: 'http://www.ozekisake.com/favicon.ico'
-  domain: www.ozekisake.com
+datePublished: '2016-09-01T17:19:02.159Z'
+sourcePath: _posts/2015-10-12-ozeki-sake-whats-sake-meter-value-smv-and-sake-acidity.md
+isBasedOnUrl: 'http://www.ozekisake.com/learn/sake-meter-value.php'
 keywords:
   - sake
   - smv
@@ -17,15 +13,16 @@ keywords:
   - corporation
   - drier
   - richer
-description: Ozeki Sake provides full information on Sake Meter Value and Acidity contents in its sake products.
-inLanguage: en
+related: []
+author: []
+via: {}
+dateModified: '2016-09-01T17:19:01.679Z'
+title: ''
 app_links: []
-isBasedOnUrl: 'http://www.ozekisake.com/learn/sake-meter-value.php'
-title: "Ozeki Sake - What's Sake Meter Value (SMV) and Sake Acidity?"
-datePublished: '2015-10-12T01:36:09.126Z'
-dateModified: '2015-10-11T10:48:49.573Z'
-sourcePath: _posts/2015-10-12-ozeki-sake-whats-sake-meter-value-smv-and-sake-acidity.md
-published: true
+publisher: {}
+description: ''
+inLanguage: en
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +30,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ozeki Sake - What's Sake Meter Value &amp;lpar;SMV&amp;rpar; and Sake Acidity&amp;quest;</h1><p>Ozeki Sake provides full information on Sake Meter Value and Acidity contents in its sake products&amp;period;</p><img src="http://www.ozekisake.com/images/learn/sake-meter-value.png" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf06b7d-1012-49ec-b2a8-9fa2a16652f0.png)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38aad4c9ddd071243a0edabf5a735a5b8940e8b9.png" /><h1>Ozeki Sake - What's Sake Meter Value (SMV) and Sake Acidity?</h1><p>Ozeki Sake provides full information on Sake Meter Value and Acidity contents in its sake products.</p></article>
